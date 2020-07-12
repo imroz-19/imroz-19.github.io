@@ -1,8 +1,4 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
 
 There are two methods for getting started with this repo.
 
@@ -11,9 +7,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> cd imroz-19.github.io
 > npm install
 > npm start
+> go to locahost:8080/
 ```
 
 #### Not Familiar with Git?
